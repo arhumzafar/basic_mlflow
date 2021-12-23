@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/ffac746211a94c87bb3ef7632ac6bf02/artifacts
+end_time: 1640226987109
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ffac746211a94c87bb3ef7632ac6bf02
+run_uuid: ffac746211a94c87bb3ef7632ac6bf02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1640226985166
+status: 3
+tags: []
+user_id: arhumzafar

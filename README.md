@@ -1,2 +1,3 @@
-# basic_mlflow
-training, testing, tracking, and deploying a model using MLflow
+# Adventures in MLFlow
+
+This repo contains file for the Medium Article **Adventures in MLFlow**  
